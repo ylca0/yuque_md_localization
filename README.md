@@ -1,0 +1,2 @@
+# yuque_md_localization
+一个脚本，可以将语雀导出的markdown文件中的图片进行本地化。其他的软件导出的也可以。
